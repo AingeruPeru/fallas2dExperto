@@ -1,0 +1,18 @@
+{
+  "displayCluster": true,
+  "showFeatureCount": true,
+  "featureCountLabel": "TOTAL",
+  "summaryLayer": {
+    "fields": [
+      {
+        "type": "AVG",
+        "label": "",
+        "field": "id"
+      }
+    ],
+    "id": "Monumentos_falleros_2022_740",
+    "name": "Monumentos falleros 2022",
+    "filterField": "seccion",
+    "url": "Monumentos_falleros_2022_740"
+  }
+}
