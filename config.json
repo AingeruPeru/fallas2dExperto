@@ -230,10 +230,23 @@
       "right": 0,
       "bottom": 0
     },
-    "itemId": "22172fe758894b5ea67a6aad76750592",
-    "mapOptions": {},
+    "itemId": "a585e4baf35948cf9167acbb1f1ae218",
+    "mapOptions": {
+      "extent": {
+        "xmin": -55621.00982844765,
+        "ymin": 4781005.488511852,
+        "xmax": -26574.93908011984,
+        "ymax": 4797324.794050715,
+        "spatialReference": {
+          "wkid": 102100
+        }
+      }
+    },
     "id": "map",
-    "portalUrl": "https://educacionesri.maps.arcgis.com"
+    "portalUrl": "https://educacionesri.maps.arcgis.com",
+    "mapRefreshInterval": {
+      "useWebMapRefreshInterval": true
+    }
   },
   "widgetPool": {
     "panel": {
