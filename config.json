@@ -230,18 +230,8 @@
       "right": 0,
       "bottom": 0
     },
-    "itemId": "48b437f53a634b589fd2e61a39086132",
-    "mapOptions": {
-      "extent": {
-        "xmin": -57942.78456260675,
-        "ymin": 4781034.152397459,
-        "xmax": -28896.713814278926,
-        "ymax": 4797353.457936322,
-        "spatialReference": {
-          "wkid": 102100
-        }
-      }
-    },
+    "itemId": "22172fe758894b5ea67a6aad76750592",
+    "mapOptions": {},
     "id": "map",
     "portalUrl": "https://educacionesri.maps.arcgis.com"
   },
@@ -277,14 +267,12 @@
         "IsController": false,
         "uri": "widgets/InfoSummary/Widget",
         "index": 4,
-        "id": "widgets_InfoSummary_Widget_33",
-        "config": "configs/InfoSummary/config_widgets_InfoSummary_Widget_33.json"
+        "id": "widgets_InfoSummary_Widget_33"
       },
       {
         "name": "Summary",
         "version": "2.23",
         "uri": "widgets/Summary/Widget",
-        "config": "configs/Summary/config_widgets_Summary_Widget_34.json",
         "index": 5,
         "id": "widgets_Summary_Widget_34",
         "position": {
@@ -296,7 +284,6 @@
         "version": "2.23",
         "IsController": false,
         "uri": "widgets/NearMe/Widget",
-        "config": "configs/NearMe/config_widgets_NearMe_Widget_35.json",
         "index": 6,
         "id": "widgets_NearMe_Widget_35"
       },
@@ -305,7 +292,6 @@
         "version": "2.23",
         "IsController": false,
         "uri": "widgets/Screening/Widget",
-        "config": "configs/Screening/config_widgets_Screening_Widget_36.json",
         "index": 8,
         "id": "widgets_Screening_Widget_36"
       }
